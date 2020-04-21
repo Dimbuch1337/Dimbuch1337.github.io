@@ -1,0 +1,19 @@
+{
+  "name": "webformmyself-webpack",
+  "version": "1.0.0",
+  "description": "webpack project",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dima",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.26.3",
+    "sass-loader": "^8.0.2",
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.10.3"
+  }
+}
